@@ -1,0 +1,39 @@
+[33mcommit 1d04e333b5db92ba99335c59595dcf35fa432be5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Victor Savitsky <vivatik4u@gmail.com>
+Date:   Wed Mar 3 18:21:13 2021 +0300
+
+    Revert "finish second part"
+    
+    This reverts commit 0ccddac9f94b622170436bbb21d66181572a68d3.
+    
+    I'm so sorry!
+
+[33mcommit 0ccddac9f94b622170436bbb21d66181572a68d3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Victor Savitsky <vivatik4u@gmail.com>
+Date:   Wed Mar 3 18:17:13 2021 +0300
+
+    finish second part
+
+[33mcommit 99444877c172d33bd07ae6197ffe5f4a59e35520[m
+Author: Victor Savitsky <vivatik4u@gmail.com>
+Date:   Mon Mar 1 16:07:11 2021 +0300
+
+    add 2 new lines to my song
+
+[33mcommit 03e04429cb942e7cbe829fb1c5615cb8385adc81[m
+Author: BuBaTuK <79743947+BuBaTuK@users.noreply.github.com>
+Date:   Mon Mar 1 15:10:43 2021 +0300
+
+    add 2 more lines in the song
+
+[33mcommit 3828fc71cb016bf43f77f287bac1d814177ce313[m
+Author: Victor Savitsky <vivatik4u@gmail.com>
+Date:   Mon Mar 1 15:04:08 2021 +0300
+
+    add first 2 lines in the song
+
+[33mcommit eec0c2c06c022ba7784e431a51de71cbbe231a80[m
+Author: BuBaTuK <79743947+BuBaTuK@users.noreply.github.com>
+Date:   Mon Mar 1 14:41:47 2021 +0300
+
+    Initial commit
